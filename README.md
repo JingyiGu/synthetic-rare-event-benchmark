@@ -12,7 +12,7 @@ The goal is to **consolidate links and metadata** in one place to support resear
 
 ## 📂 Dataset Index
 
-Each dataset below includes a brief description and a direct access link. For full metadata (e.g., event type, use cases, references), see the [full table](./datasets_table.tex).
+Each dataset below includes a brief description and a direct access link. For full description, please see our paper.
 
 ### 🌧️ Image Data
 - **US Precipitation** — Hourly 2-D heatmaps for rainfall extremes  
