@@ -36,6 +36,9 @@ Each dataset below includes a brief description and a direct access link. For fu
 - **TailGAN Simulated Data** — AR/GARCH-based return series  
   🔗 https://github.com/chaozhang-ox/Tail-GAN
 
+- **Copula Returns** — Synthetic bivariate data using Gumbel copulas  
+  🚫 Not publicly available
+  
 - **Market Supervision Sources** — SEC, TRACE, and FRED data  
   🔗 https://www.sec.gov/  
   🔗 https://www.finra.org/  
@@ -66,12 +69,20 @@ Each dataset below includes a brief description and a direct access link. For fu
 - **GEFCom2014** — Electricity load, wind, solar, price  
   🔗 http://www.gefcom2014.com/
 
+- **Southern Power Grid** — 15-min wind/PV across 5 provinces  
+  🚫 Not publicly available
+
+- **Northwestern Renewable Energy** — 5-min wind/PV data  
+  🚫 Not publicly available
+
 ---
 
 ### 🌊 Hydrological Time Series
 - **Danube River** — Daily discharge data from 31 stations  
   🔗 http://www.gkd.bayern.de/
-
+  
+- **Germany Ahrtal Floods** — Water levels and flow rates  
+  🚫 Not publicly available
 ---
 
 ### 👥 Event / Behavioral Time Series
@@ -90,7 +101,10 @@ Each dataset below includes a brief description and a direct access link. For fu
 ---
 
 ### 📊 Tabular / Toy
-- (Descriptions included in LaTeX table. Not all links public.)
+- **2-D Gaussian Mixture** — Toy mixture distribution  
+  🚫 Not publicly available
 
+- **5-D Heavy-tail Toy** — Sparse training with Dirichlet tails  
+  🚫 Not publicly available
 ---
 
